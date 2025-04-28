@@ -33,6 +33,11 @@ This project focuses on assessing tropical forests by leveraging satellite image
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+## Output Example
 
+The model successfully detects and classifies tropical forest regions based on satellite imagery.
+
+![Tropical Forest Detection Output](outputs/6.png)
 
 
