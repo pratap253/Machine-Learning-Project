@@ -34,7 +34,4 @@ This project focuses on assessing tropical forests by leveraging satellite image
 ```bash
 pip install -r requirements.txt
 
-### How to Run
-git clone https://github.com/yourusername/tropical-forest-assessment.git
-cd tropical-forest-assessment
 
