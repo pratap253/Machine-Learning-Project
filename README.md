@@ -38,6 +38,6 @@ pip install -r requirements.txt
 
 The model successfully detects and classifies tropical forest regions based on satellite imagery.
 
-![Tropical Forest Detection Output](outputs/6.png)
+![Tropical Forest Detection Output](output/6.png)
 
 
