@@ -35,11 +35,4 @@ This project focuses on assessing tropical forests by leveraging satellite image
 pip install -r requirements.txt
 
 
-## Output 
-
-Here is an example of the model's prediction on satellite images:
-
-![Tropical Forest Detection Output](outputs/sample_output.png)
-
-
 
